@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+.parint{
+    border: black solid 1px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.product{
+    float:left;
+    width: 20%;
+    height: 250px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    border: black solid 1px;
+
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.clear{
+    clear: both;
+}
+
+.cmony{
+    display: inline;
+    color: green;
+    font: bold ;
+}
+.lmony{
+    display: inline;
+    color: red;
+    font: bold;
+    font-size: smaller;
+    text-decoration: line-through;
+}
+.bay{
+    display: inline;
+    background-color: blue;
+}
+
+.first{
+    background-color: blue;
+    color: aliceblue;
+}
+.second{
+    background-color: aliceblue;
+    color: blue;
+}
